@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { SketchPicker } from 'react-color'
 import html2canvas from 'html2canvas'
-import Swal from 'sweetalert2'
+
 import Subtitle from '../atoms/headlines/Subtitle'
 import Figure from '../molecule/Figure'
 import { options } from '../../utils/utils'
