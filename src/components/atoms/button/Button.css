@@ -1,0 +1,14 @@
+.sectionBtn {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnDownloadImg {
+  background-color: #9c7ce8;
+  color: #2c2c3c;
+  font-weight: 700;
+}
