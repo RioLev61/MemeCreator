@@ -15,10 +15,10 @@ const ImgMemes = () => {
   const [memeTextUp, setMemeTextUp] = useState('')
   const [memeTextDown, setMemeTextDown] = useState('')
   const [sketchPickerColor, setSketchPickerColor] = useState({
-    r: '31',
-    g: '112',
-    b: '19',
-    a: '1'
+    r: '0',
+    g: '0',
+    b: '0',
+    a: '100'
   })
   const Swal = require('sweetalert2')
 
@@ -48,10 +48,10 @@ const ImgMemes = () => {
     setMemeTextUp('')
     setMemeTextDown('')
     setSketchPickerColor({
-      r: '31',
-      g: '112',
-      b: '19',
-      a: '1'
+      r: '0',
+      g: '0',
+      b: '0',
+      a: '100'
     })
    
     Swal.fire({

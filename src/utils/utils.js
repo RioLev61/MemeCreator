@@ -22,5 +22,17 @@ export const options = [
   {
     id: 6,
     name: 'Sorpresa!'
+  },
+  {
+    id: 7,
+    name: 'Nena de Fuego'
+  },
+  {
+    id: 8,
+    name: 'Terry'
+  },
+  {
+    id: 9,
+    name: 'Bebe en la Arena'
   }
 ]
